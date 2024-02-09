@@ -7,5 +7,5 @@
 
 - 👯 I'm looking to collaborate **on open source projects**
 
-- 💬 Ask me about **- JavaScript and frontend development - Data structures and algorithms - Open source contributions and collaboration - Tips for improving coding skills - Tech book recommendations**
+- 💬 Ask me about **- JavaScript and frontend development - Open source contributions and collaboration - Tips for improving coding skills - Tech book recommendations**
 
