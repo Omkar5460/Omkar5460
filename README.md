@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Jadhav</h1>
-<h3 align="center">Software Developer | Open Source Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Software Developer |  Lifelong Learner</h3>
 
 - 🔭 I’m currently working on **Womens Security App**
 
