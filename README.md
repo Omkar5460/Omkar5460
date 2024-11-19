@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Womens Security App**
 
-- 🌱 I’m currently learning **React.js and JAVA**
+- 🌱 I  Completed my Full Stack Course on **JAVA**
 
 - 👯 I'm looking to collaborate **on open source projects**
 
